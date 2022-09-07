@@ -1,0 +1,1 @@
+public record ProductShipped(Guid Id, int Quantity, DateTime DateTime);
